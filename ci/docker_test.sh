@@ -2,6 +2,8 @@
 
 set -e
 
+echo "UNITY_PROJECT_DIR:$UNITY_PROJECT_DIR"
+
 if [ -z "$UNITY_PROJECT_DIR" ]; then
   UNITY_PROJECT_DIR=$(pwd)
 fi
