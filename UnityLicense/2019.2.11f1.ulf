@@ -21,7 +21,7 @@
         <DeveloperData Value="AQAAAEY0LUtKMjUtUkFDQi1aUFA2LTVLRFUtWVk3WQ=="/>
         <SerialMasked Value="F4-KJ25-RACB-ZPP6-5KDU-XXXX"/>
         <StartDate Value="2018-01-28T00:00:00"/>
-        <UpdateDate Value="2020-03-02T14:41:27"/>
+        <UpdateDate Value="2020-03-17T15:18:02"/>
         <InitialActivationDate Value="2018-01-28T07:43:46"/>
         <LicenseVersion Value="6.x"/>
         <ClientProvidedVersion Value="2019.2.11f1"/>
@@ -30,8 +30,8 @@
             <Entitlement Ns="unity_editor" Tag="UnityPersonal" Type="EDITOR" ValidTo="9999-12-31T00:00:00"/>
         </Entitlements>
     </License>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>oINqExq6+iFaPBQ0+Ao4VAX5hYE=</DigestValue></Reference></SignedInfo><SignatureValue>1F5QPKstoHVusMj2/F3Tg81QzerPKqsWXBsGCMimnZqYnWIydKtUo84wn81En4rTKjJlRCr7NhVr
-cbY8hcYdC4WszoDlGieu7f5l/AYhi9tMD91zZCo0j1sFPVyOLcXkdaR6468xrMkEPWGoRmJABvA6
-62rH0F/lscmQOU3k+c497jipawsorsXVoKowloRe2rktcFi4Xn8V2D2ZARkSxuwbc4W7o5m/l6/n
-YDMYiRyinwtprdpG1642+oCsHxE1acgSxbwCJH4E80aQr9hZ9KJkuQpDsyeyvhygh0zjna8f+oXi
-9g6IjvIIHIR1G6MWFplXlOWiokh4TMY/Cv490A==</SignatureValue></Signature></root>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>1Um3dM/eWzEFApDnyRlyY0hgWXg=</DigestValue></Reference></SignedInfo><SignatureValue>PHYGkk7opK2aAmevimTbI61izUXjHV2PJ6Jq5H9obhsrj0yrkiIHRChXTu8+gvgN7GbGBm///XhB
+4JlXnXUohJ0VC7y8ReHAmphNRDhGhEvvODRGLwIDHzeWj2ngyInJ/TSx3sSVYUvHNXVdj1/UWcrQ
+B5QSWXLftdJe9eZ3XsHktm2BNFbANzlqEZgOUFGKnRXGJPILA7eRjpJQF8WaLSGwYkBTTsJ/NlVD
+dvrJWzPHR6TfS6I8bDxFu+HIjQQMSvJkUGWnRuZnmNaQWS3FqAyaxaB45EIO9kxkv51tWb9uajXD
+nwMK+5vQE8Nfo76q8B5IIQoNjP5KxmMmpA++mg==</SignatureValue></Signature></root>
