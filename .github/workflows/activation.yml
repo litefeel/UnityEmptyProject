@@ -1,5 +1,9 @@
 name: Acquire activation file
-on: [push]
+on:
+  push:
+  schedule:
+    - cron: '0 23 * * *'
+    
 jobs:
   activation:
     name: Request manual activation file on version ${{ matrix.unityVersion }} 🔑
