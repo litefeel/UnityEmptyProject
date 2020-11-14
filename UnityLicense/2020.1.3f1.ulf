@@ -5,7 +5,7 @@
             <Binding Key="2" Value="209645cd03654c4fbe7298a54f17cbd0"/>
         </MachineBindings>
         <MachineID Value="dp6lTrUTOP6uYSrFy42hv2C3FOk="/>
-        <SerialHash Value="f382e0f3f9a6bf35c69664919ba08f20de7788ab"/>
+        <SerialHash Value="32486a0c8bc448bd1870214bdc4ecfdc4a8618eb"/>
         <Features>
             <Feature Value="33"/>
             <Feature Value="1"/>
@@ -17,14 +17,12 @@
             <Feature Value="17"/>
             <Feature Value="19"/>
             <Feature Value="62"/>
-            <Feature Value="60"/>
         </Features>
-        <DeveloperData Value="AQAAAEY0LTU0UUItVUZUUi03VVRRLVRLMzYtSjhINA=="/>
-        <SerialMasked Value="F4-54QB-UFTR-7UTQ-TK36-XXXX"/>
-        <StartDate Value="2018-11-04T00:00:00"/>
-        <StopDate Value="2020-09-17T13:43:15"/>
-        <UpdateDate Value="2020-09-04T12:43:14"/>
-        <InitialActivationDate Value="2018-11-04T23:45:21"/>
+        <DeveloperData Value="AQAAAEY0LUtKMjUtUkFDQi1aUFA2LTVLRFUtWVk3WQ=="/>
+        <SerialMasked Value="F4-KJ25-RACB-ZPP6-5KDU-XXXX"/>
+        <StartDate Value="2018-01-28T00:00:00"/>
+        <UpdateDate Value="2020-11-15T07:59:08"/>
+        <InitialActivationDate Value="2018-01-28T07:43:46"/>
         <LicenseVersion Value="6.x"/>
         <ClientProvidedVersion Value="2020.1.3f1"/>
         <AlwaysOnline Value="false"/>
@@ -33,8 +31,8 @@
             <Entitlement Ns="unity_editor" Tag="DarkSkin" Type="EDITOR_FEATURE" ValidTo="9999-12-31T00:00:00"/>
         </Entitlements>
     </License>
-<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>SlALLGhXfl53736TheplXmKax9k=</DigestValue></Reference></SignedInfo><SignatureValue>e22fcJIa1bxs8dyaP7eyI0ChoVNlvabUsJ2W1/7H2K8/qV1Vd4vBmUga/NJwDNn5NEv9pC6ahdO8
-zSgFHZ3dcEyzhYrcE1l4zxJo9TWo2jLKx0SHM/r3Tj2XYYYNuoqCi21KWf9VYj4xl8tnq7ZO/Nct
-O9/uRHlktoksvr4lxLPw877fBfoqTrhjLYDePV+Dwes8lKnswZvqaUXB+CwOERuCO0XJe7CgZDZa
-5lZ//KchR44jsmKdlHoA3tBWALnFb8WBwfWJUT8iQpUP4QJ+Jdf7eTWHGZaLVjcNtRq77aZyT96Z
-hJSJN1qG7db4S++33zqym1+cH9VVleMiP237jA==</SignatureValue></Signature></root>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315#WithComments"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#Terms"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>j+W7A2SzWQ+CBwr/osenNPBrlZw=</DigestValue></Reference></SignedInfo><SignatureValue>VZIAqaRzZPVmN4KGiQcZRokfD/NZFwaJiEPP+KkplMKSRNcrAEZnf2nXIECeh8LZ4ydis7N+TQaa
+6vZol9IJs8weurpzGM0uRzauuq8eT/hsP7/pZsLwdUP1RxAco/6W7H6XKQ2umYGbroWOEybPcmqt
+niEgnoRVYgjzHA4Wg1IhFII+aMnXIo3gyFI39FMIamL+DEYo02lAOQErj5z+Q2zdyfKVDriEwXRx
+kp/WEBDteMS5P779WeAILBxHtyAONAUVpUHf8wwo132yecn1imWWYW6H5sKTDRVQmeEksSAS4fcm
+FlJ4SGkDZm5I0WQRsuMY1Ge8tfvA8aHd4PWTvQ==</SignatureValue></Signature></root>
